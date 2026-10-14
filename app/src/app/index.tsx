@@ -54,7 +54,7 @@ export default function Home() {
 
   return (
     <ScrollView contentContainerStyle={styles.container} keyboardShouldPersistTaps="handled">
-      <Text style={styles.title}>Scam Shield</Text>
+      <Text style={styles.title}>Scamix</Text>
       <Text style={styles.subtitle}>Check before you pay</Text>
 
       <View style={styles.tabs}>
